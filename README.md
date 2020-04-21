@@ -5,6 +5,7 @@ Its Simpe 2 in one tool it has inbuilt admin dorks and also on can use their own
 pip install urllib.request
 pip install urllib
 
-<h3>USage: </h3>
+<h3>Usage: </h3>
+
 python3 Admin-Finder.py
 
