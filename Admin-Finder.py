@@ -12,6 +12,9 @@ print('''\033[32m
 
 ''')
 print()
+print("1. Inbuilt Wordlist")
+print("2. Import Dorks")
+print()
 
 num = input("\033[321m MAke YOUr SeleCtion:  ")
 
